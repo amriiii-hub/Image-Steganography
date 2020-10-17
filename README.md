@@ -6,5 +6,7 @@ Steganography is the technique of hiding secret data within an ordinary, non-sec
 Packages Used:
 
 1.tkinter
-      Installation command:
-2.
+     
+2.PIL
+
+3.Os
